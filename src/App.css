@@ -169,7 +169,7 @@
 }
 
 .contactIcons:hover {
-    background: #8abed2;
+    background: #638291;
 }
 
 
@@ -189,63 +189,6 @@
     align-items: center;
     justify-content: space-evenly;
 }
-/* 
-.contactIcons {
-    width: 50px;
-    height: 50px;
-    background: #fff;
-    border-radius: 10px;
-    border: 1px solid #fff;
-}
-
-.contactIcons1 {
-    width: 50px;
-    height: 50px;
-    background: #fff;
-    border-radius: 50%;
-    border: 1px solid #fff;
-
-}
-
-.contactIcons:hover, .contactIcons1:hover {
-    box-shadow: 2px 4px 8px 4px #132025;
-
-}
-
-.listOfContactIcons {
-    display: flex;
-    justify-content: space-evenly;
-}
-
-
-.bottomSection {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    background: #29434e;
-    padding-bottom: 10px;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
-}
-
-.emailId {
-    
-    padding: 8px;
-    background: #dd2c009f;
-    cursor: pointer;
-    border-radius: 4px;
-    margin: 10px 0;
-}
-
-.emailId a{
-    text-decoration: none;
-    color: #fff;
-
-}
-.emailId:hover {
-    background: #a3000034;
-
-} */
 
 .test {
     display: flex;
