@@ -155,6 +155,44 @@
 .contactIcons {
     width: 50px;
     height: 50px;
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+}
+
+.contactIcons1 {
+    width: 54px;
+    height: 54px;
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+}
+
+.contactIcons:hover {
+    background: #8abed2;
+}
+
+
+.bottomSection {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: #29434e;
+    padding: 10px 0px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.contactDiv {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+/* 
+.contactIcons {
+    width: 50px;
+    height: 50px;
     background: #fff;
     border-radius: 10px;
     border: 1px solid #fff;
@@ -207,7 +245,7 @@
 .emailId:hover {
     background: #a3000034;
 
-}
+} */
 
 .test {
     display: flex;
